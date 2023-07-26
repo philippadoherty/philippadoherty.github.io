@@ -1,35 +1,16 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
+title: A little about me
+subtitle: Hi!
+description: It's nice to meet you!
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+My name is Philippa (Pip) Doherty. I have been practicing ceramics for over 13 years! By day I am a programmer (see this very nice website?)
 
-![](/images/planter.jpg)
-## Features
+My ceramics path ...
 
-We've packed Duet full of powerful features to help showcase your work:
+I've been practicing ceramics since 2010, I got classes as a gift from my parents. I started out learning as much as I could from my teacher and friend George Peck of G. Peck Pottery in upstate NY. I eventually rented studio space from him in his beautiful studio which had a massive window looking out over his property.. I am currently a member of the Buffalo Clay Art Center in Buffalo, NY, where I have been for the last five years.
 
-* Beautiful, minimal design
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
 
-## Get Duet
 
-Duet is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+![](/images/demo/demo-landscape.jpg) 
