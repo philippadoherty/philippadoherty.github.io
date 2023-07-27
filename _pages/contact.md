@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Duet comes with a built-in contact form, that's free and easy to set up.
+subtitle: I'm not currently taking commissions, but feel free to reach out.
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
 ---
